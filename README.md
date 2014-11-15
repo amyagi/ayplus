@@ -1,4 +1,4 @@
 ayplus
 ======
 
-Customized kernel based on CentOS
+Customized kernel based on CentOS.
